@@ -1,1 +1,17 @@
-
+html{
+    font-family: 'IBM Plex Sans';
+}
+header{
+    clear: both;
+}
+article{
+    clear: left;
+    float: left;
+}
+aside{
+    clear: right;
+    float: right;
+}
+footer{
+    clear: both;
+}
